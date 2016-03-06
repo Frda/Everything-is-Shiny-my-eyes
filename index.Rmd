@@ -1,5 +1,5 @@
 ---
-title       : Womens Weight Estimator App
+title       : Womens Height Estimator App
 subtitle    : 
 author      : Frkwad
 job         : Estimator
@@ -11,9 +11,9 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 
 ---
-### Womens Weight app
+### Womens Height app
 
-Womens Weight app. Is an Application Developed to provide the user with the average weight of a woman for a given height.
+Womens weight app. Is an Application Developed to provide the user with the average height of a woman for a given weight.
 
 ### Data Source
 - Womens Weight application is based on the womens data package located R data package
@@ -30,9 +30,7 @@ Below is a summary of Data from the womens Dataset
 ---
 ### Potential uses of womens weight app.
 
-- Forencis: Incases where a murder has occured and the only clue left is a skeleton
-  The womens app can be used to estimate the weight of the dead person. This will allow    the investigators to come up with a description of the dead.
-  
+
 - Health care: womens weight appliaction can be used by individuals to help plan either    weight gain or weight loss regiment for their given hight in conjuction with their       doctor
 
 summary data from womens table
